@@ -60,13 +60,13 @@ copyright = "&copy; Copyright 2025, Hunter Matthews"
     href = "http://github.com/huntermatthews"      # Link to associate with icon (http://, https://, mailto:)
   [[params.social]]
     fa_icon = "fab fa-linkedin-in fa-1x"
-    href = ""
-  [[params.social]]
-    fa_icon = "fab fa-twitter fa-1x"
-    href = ""
+    href = "https://www.linkedin.com/comm/in/hunter-matthews-b7363b11"
+#  [[params.social]]
+#    fa_icon = "fab fa-twitter fa-1x"
+#    href = ""
   [[params.social]]
     fa_icon = "fas fa-at fa-1x"
-    href = ""
+    href = "mailto:blog@unix.haus"
 
 
 
