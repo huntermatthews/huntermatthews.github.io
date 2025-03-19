@@ -16,12 +16,12 @@ copyright = "&copy; Copyright 2025, Hunter Matthews"
 
 # Main menu items
 [menu]
-#   [[menu.main]]
-    # identifier = "about"
-    # name = "About"
-    # title = "About"
-    # url = "/about/"
-    # weight = -500
+  [[menu.main]]
+    identifier = "about"
+    name = "About"
+    title = "About"
+    url = "/about/"
+    weight = -500
   [[menu.main]]
     identifier = "posts"
     name = "Posts"
@@ -38,7 +38,7 @@ copyright = "&copy; Copyright 2025, Hunter Matthews"
     identifier = "resume"
     name = "Resume"
     title = "Resume"
-    url = "/resume/Hunter-Matthews-Resume.pdf"
+    url = "/resume/hunter-matthews-resume.pdf"
     weight = -400
 
 
@@ -47,7 +47,7 @@ copyright = "&copy; Copyright 2025, Hunter Matthews"
   description = "Hunter Matthews tiny corner of the internets"      # Your meta description of the site
   header_title = "Hunter Matthews"                                  # Your header title
   header_subtitle = "The haus that unix built...."                  # Your header subtitle
-  home_image = "/images/avatar.png"                                 # Path to header image starting from the static directory
+  home_image = "/images/clint-avatar.jpg"                                 # Path to header image starting from the static directory
   recent_posts = 5                                                  # Max amount of recent posts to show
   mainSections = ["posts", "post", "blog"]                          # Main sections to include in recent posts
 
@@ -61,12 +61,13 @@ copyright = "&copy; Copyright 2025, Hunter Matthews"
   [[params.social]]
     fa_icon = "fab fa-linkedin-in fa-1x"
     href = "https://www.linkedin.com/comm/in/hunter-matthews-b7363b11"
-#  [[params.social]]
-#    fa_icon = "fab fa-twitter fa-1x"
-#    href = ""
   [[params.social]]
     fa_icon = "fas fa-at fa-1x"
     href = "mailto:blog@unix.haus"
+#  [[params.social]]
+#    fa_icon = "fab fa-twitter fa-1x"
+#    href = ""
+
 
 
 

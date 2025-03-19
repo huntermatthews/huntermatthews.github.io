@@ -1,14 +1,12 @@
 +++
 date = '2025-03-16T21:53:27-04:00'
-categories = ['home']
-title = 'Home Page'
+categories = ['about']
+title = 'About Page'
 +++
-
-Most of the content is in the "posts" link above...
 
 # About me
 
-Hello. My name is Hunter Matthews and I'm a Unix systems administrator and automation
+Hello. I'm Hunter Matthews and I'm a Unix systems administrator and automation
 engineer. I've worked at universities, major fortune 10 corporations and others. The common link in most of my jobs has been working for biologists doing genetics.
 
 My hobbies outside computers include fountain pen collecting, getting an older Miata back on the road and I spent 6 years doing photography in the Chicago theater scene. In past years I road motorcycles for relaxation - I miss my bikes.
