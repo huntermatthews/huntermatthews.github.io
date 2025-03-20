@@ -38,7 +38,7 @@ copyright = "&copy; Copyright 2025, Hunter Matthews"
     identifier = "resume"
     name = "Resume"
     title = "Resume"
-    url = "/resume/hunter-matthews-resume.pdf"
+    url = "/images/hunter-matthews-resume.pdf"
     weight = -400
 
 
